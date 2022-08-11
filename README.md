@@ -1,12 +1,15 @@
+# Aplicaciones de Aprendizaje Profundo (DL) en los Sistemas
+# de Comunicacion Digital Inalámbricas 
+
 Este repositorio ha sido creado para colocar el trabajo
 referente a aprendizaje profundo (DL) aplicado a los
 sistemas de comunicación digital inálambrico (SCDI).
 
 Se ha tomado como referncia:
 
-. Diversos articulos en la carpeta 
-. Aplicaciones desarrolldos en Sionna
-. Aplicaciones basados en Matlab
+- Diversos articulos en la carpeta 
+- Aplicaciones desarrolldos en Sionna
+- Aplicaciones basados en Matlab
 
 Tambien se encuentra un articulo de 
    # Applications-DL-wireless
