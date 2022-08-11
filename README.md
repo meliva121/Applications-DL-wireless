@@ -1,5 +1,5 @@
-# Aplicaciones de Aprendizaje Profundo (DL) en los Sistemas
-# de Comunicacion Digital Inalámbricas 
+# Aplicaciones de Aprendizaje Profundo (DL) en los 
+# Sistemas de Comunicacion Digital Inalámbricas 
 
 Este repositorio ha sido creado para colocar el trabajo
 referente a aprendizaje profundo (DL) aplicado a los
