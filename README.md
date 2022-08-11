@@ -1,5 +1,16 @@
-# Applications-DL-wireless
-Kristyna Pijácková DNI 211534 27/05/2021
+Este repositorio ha sido creado para colocar el trabajo
+referente a aprendizaje profundo (DL) aplicado a los
+sistemas de comunicación digital inálambrico (SCDI).
+
+Se ha tomado como referncia:
+
+. Diversos articulos en la carpeta 
+. Aplicaciones desarrolldos en Sionna
+. Aplicaciones basados en Matlab
+
+Tambien se encuentra un articulo de 
+   # Applications-DL-wireless
+     Kristyna Pijácková DNI 211534 27/05/2021
 
 Clasificación de modulaciones de radio usando aprendizaje automático
 
