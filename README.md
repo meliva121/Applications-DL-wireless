@@ -8,7 +8,7 @@ sistemas de comunicación digital inálambrico (SCDI).
 Se ha tomado como referncia:
 
 - Diversos articulos sobre el tema en la carpeta papers
-- Aplicaciones desarrolldos en Sionna (con su codigo)
+- Autoencoders en python-keras y en la nueba API Sionna (con su codigo)
 - Aplicaciones basados en Matlab (con su codigo)
 - Articulo, "Radio Modulation Classification Using Deep Learning Arquitectures  
 - Pijackova (2021) (con su código). 
