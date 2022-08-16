@@ -8,7 +8,7 @@ sistemas de comunicación digital inálambrico (SCDI).
 Se ha tomado como referncia:
 
 - Diversos articulos sobre el tema en la carpeta papers
-- Autoencoders en python-keras y en la nueba API Sionna (con su codigo)
+- Autoencoders en python-TensorFlow 2.8 y en la nueba API Sionna (con su codigo)
 - Aplicaciones basados en Matlab (con su codigo)
     - https://la.mathworks.com/help/comm/ug/autoencoders-for-wireless-communications.html
     - https://la.mathworks.com/help/deeplearning/ug/modulation-classification-with-deep-learning.html
